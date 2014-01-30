@@ -374,5 +374,4 @@ These actions must be invoked using the userid, passwords, and token for a user 
   
   
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/LfournierKHS/khs-sherpa/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
